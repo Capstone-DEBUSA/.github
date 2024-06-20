@@ -19,14 +19,14 @@ Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKL
 
 ## Built With
 - **Machine Learning:**
-  -
-  -
-  -
+  - zzz
+  - zzz
+  - zzz
   
 - **Mobile Development:**
-  -
-  -
-  -
+  - zzz
+  - zzz
+  - zzz
   
 - **Cloud Computing:**
   - Node.JS
@@ -35,7 +35,7 @@ Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKL
   - Google Cloud Run
   - Docker
 
-## Architekture Overview
+## Architecture Overview
 
 ## Features of DEBUSA APP
 - Detect fruit and vegetable prediction using camera and galery
