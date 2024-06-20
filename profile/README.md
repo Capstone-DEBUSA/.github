@@ -16,6 +16,9 @@ The android application that we designed with the theme Mind Empowerment: A holi
 - (**MD**) `A012D4KX4020` | **Sinta Ramadani** – Universitas Telkom
 - (**MD**) `A009D4KY4381` | **Fahrel Ardzaky Eriyanputra** – Universitas Gunadarma
 
+## Machine Learning
+
+## Mobile Development
 
 ## Cloud Computing
 ### Featured Technologies
