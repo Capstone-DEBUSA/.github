@@ -15,3 +15,10 @@ The android application that we designed with the theme Mind Empowerment: A holi
 - (**ML**) `M189D4KX3345` | **Ioshi Junika Fandha** – Universitas Bengkulu
 - (**MD**) `A012D4KX4020` | **Sinta Ramadani** – Universitas Telkom
 - (**MD**) `A009D4KY4381` | **Fahrel Ardzaky Eriyanputra** – Universitas Gunadarma
+
+
+## Cloud Computing
+### Featured Technologies
+* [Node js](https://nodejs.org/en/) Node.js is a JavaScript runtime environment designed to execute JavaScript code on the server-side. It enables developers to create efficient and scalable server-side applications.
+* [Framework Hapi Js](https://hapi.dev/) Hapi.js is a versatile framework that simplifies the process of building server-side applications in Node.js
+* [Google Cloud Platform (GCP)](https://cloud.google.com/gcp/) Google Cloud Platform (GCP) is a comprehensive suite of cloud computing services offered by Google. It provides a variety of infrastructure services, development platforms, and tools for storing data, managing applications, and deploying AI and machine learning solutions.
