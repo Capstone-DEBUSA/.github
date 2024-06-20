@@ -9,11 +9,12 @@
 | Sinta Ramadani    | A012D4KX4020    | Mobile Development    | Universitas Telkom    |
 | Fahrel Ardzaky Eriyanputra    | A009D4KY4381    | Mobile Development    | Universitas Gunadarma    |
 
-## Debusa Apps
+## Debusa App
 DEBUSA (Detektif Buah Sayur) is an application with an educational theme that is suitable for elementary school children who want to learn about fruits and vegetables, this application detects 5 types of fruit and 5 types of vegetables. DEBUSA will provide accurate predictions about the detailed information of the detected fruits and vegetables. Equipped with an explanation of the predicted object and also a quiz feature about the predicted object.
 
-## Download Link
+## Download DEBUSA APP
 Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKLJbnjRAgO3W?usp=drive_link)
+
 ## Demo APP
 
 ## Built With
