@@ -59,5 +59,5 @@ Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKL
 | Triana Kesumaningrum  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triana-kesumaningrum/)  |
 | Nanda Putri Nurul Ngaeni  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandaputrinurulngaeni/)  |
 | Ioshi Junika Fandha  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
-| Sinta Ramadani  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
+| Sinta Ramadani  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinta-ramadani-2a9ab7289/)  |
 | Fahrel Ardzaky Eriyanputra  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahrel-ardzaky-eriyanputra?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  |
