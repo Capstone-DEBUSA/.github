@@ -48,7 +48,7 @@ Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKL
 
 | Nama  | LinkedIn |
 |-------|----------|
-| Mochamad Yoga Sutomo  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
+| Mochamad Yoga Sutomo  | [![LinkedIn](www.linkedin.com/in/mysutomo)]()  |
 | Rifki Ahmad Fahreizi  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifki-ahmad-fahreizi/)  |
 | Triana Kesumaningrum  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triana-kesumaningrum/)  |
 | Nanda Putri Nurul Ngaeni  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandaputrinurulngaeni/)  |
