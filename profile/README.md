@@ -45,8 +45,6 @@ Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKL
   - Google Cloud Run
   - Docker
 
-## Architecture Overview
-
 ## Features of DEBUSA APP
 - Detect fruit and vegetable prediction using camera and galery
 - Describes the description of the predicted object
