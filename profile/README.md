@@ -19,9 +19,10 @@ Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKL
 
 ## Built With
 - **Machine Learning:**
-  - zzz
-  - zzz
-  - zzz
+  - Python
+  - TensorFlow
+  - Google Colab
+  - Google Drive
   
 - **Mobile Development:**
   - zzz
@@ -49,7 +50,7 @@ Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKL
 |-------|----------|
 | Mochamad Yoga Sutomo  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
 | Rifki Ahmad Fahreizi  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifki-ahmad-fahreizi/)  |
-| Triana Kesumaningrum  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
+| Triana Kesumaningrum  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triana-kesumaningrum/)  |
 | Nanda Putri Nurul Ngaeni  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
 | Ioshi Junika Fandha  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
 | Sinta Ramadani  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
