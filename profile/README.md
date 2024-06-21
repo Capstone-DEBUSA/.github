@@ -11,7 +11,7 @@
 
 ## Debusa App
 <p align="center">
-  <img src="https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit/blob/f7421b6ce19d65e16898259fedc8bb6c6d79227b/overview.png" alt="Deskripsi Gambar" style="width:100%;">
+  <img src="https://github.com/Capstone-DEBUSA/.github/blob/18b4d842a1687d9cb4c8204a2bf3499eb7e7e12c/profile/Screenshot%20(275).png" alt="Deskripsi Gambar" style="width:100%;">
 </p>
 DEBUSA (Detektif Buah Sayur) is an application with an educational theme that is suitable for elementary school children who want to learn about fruits and vegetables, this application detects 5 types of fruit and 5 types of vegetables. DEBUSA will provide accurate predictions about the detailed information of the detected fruits and vegetables. Equipped with an explanation of the predicted object and also a quiz feature about the predicted object.
 
