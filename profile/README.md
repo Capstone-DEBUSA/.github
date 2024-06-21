@@ -16,6 +16,10 @@ DEBUSA (Detektif Buah Sayur) is an application with an educational theme that is
 Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKLJbnjRAgO3W?usp=drive_link)
 
 ## Demo APP
+<div align="center">
+  <video src="https://drive.google.com/file/d/1-D0ZJdYo60zfyKHfCmzV9snzHp1b0sMK/view?usp=drive_link" width="400" />
+</div>
+
 
 ## Built With
 - **Machine Learning:**
