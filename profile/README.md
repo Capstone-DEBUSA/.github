@@ -17,8 +17,13 @@ Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKL
 
 ## Demo APP
 <div align="center">
-  <video src="https://drive.google.com/file/d/1-D0ZJdYo60zfyKHfCmzV9snzHp1b0sMK/view?usp=drive_link" width="400" />
+  <video src="https://github.com/Capstone-DEBUSA/.github/blob/main/profile/Demo%20Video%20Debusa%20(1).mp4" width="400" />
 </div>
+
+<video width="320" height="240" controls>
+    <source src="https://github.com/Capstone-DEBUSA/.github/blob/main/profile/Demo%20Video%20Debusa%20(1).mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 
 ## Built With
