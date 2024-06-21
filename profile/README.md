@@ -29,9 +29,11 @@ Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKL
   - Google Drive
   
 - **Mobile Development:**
-  - zzz
-  - zzz
-  - zzz
+  - Figma
+  - Kotlin
+  - Android Studio
+  - Retrofit
+  - SqlLite
   
 - **Cloud Computing:**
   - Node.JS
@@ -58,4 +60,4 @@ Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKL
 | Nanda Putri Nurul Ngaeni  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandaputrinurulngaeni/)  |
 | Ioshi Junika Fandha  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
 | Sinta Ramadani  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
-| Fahrel Ardzaky Eriyanputra  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
+| Fahrel Ardzaky Eriyanputra  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahrel-ardzaky-eriyanputra?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  |
