@@ -20,11 +20,6 @@ Her is the [Link](https://drive.google.com/drive/folders/18cIAinUntptxbTILp1_wKL
   <video src="https://github.com/Capstone-DEBUSA/.github/blob/main/profile/Demo%20Video%20Debusa%20(1).mp4" width="400" />
 </div>
 
-<video width="320" height="240" controls>
-    <source src="https://github.com/Capstone-DEBUSA/.github/blob/main/profile/Demo%20Video%20Debusa%20(1).mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
 
 ## Built With
 - **Machine Learning:**
